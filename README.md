@@ -2,6 +2,8 @@
 
 The repository for the Node.JS + Express Server REST API platform.
 
+**Code in not maintained since Pomodoro is not using this REST API anymore (switched to Parse)**
+
 ## Documentation ##
 
 - *Content-Type: application/json*.  
